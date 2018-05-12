@@ -1,0 +1,100 @@
+_repo: John-Stuart-Mill--His-Life-and-Works--13-Twelve-Sketches-by-Herbert-Spencer-Henry-Fawcett-Fre__15268
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Thornton, William Thomas
+    birthdate: 1813
+    deathdate: 1880
+    gutenberg_agent_id: '5964'
+    url: http://www.gutenberg.org/2009/agents/5964
+  - agent_name: Fawcett, Henry
+    birthdate: 1833
+    deathdate: 1884
+    gutenberg_agent_id: '5959'
+    url: http://www.gutenberg.org/2009/agents/5959
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Fawcett
+  - agent_name: Minto, William
+    birthdate: 1845
+    deathdate: 1893
+    gutenberg_agent_id: '5735'
+    url: http://www.gutenberg.org/2009/agents/5735
+    wikipedia: http://en.wikipedia.org/wiki/William_Minto
+  - agent_name: Harrison, Frederic
+    birthdate: 1831
+    deathdate: 1923
+    gutenberg_agent_id: '5960'
+    url: http://www.gutenberg.org/2009/agents/5960
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_Harrison
+  - agent_name: Bourne, H. R. Fox (Henry Richard Fox)
+    alias: Bourne, Henry Richard Fox
+    birthdate: 1837
+    deathdate: 1909
+    gutenberg_agent_id: '5963'
+    url: http://www.gutenberg.org/2009/agents/5963
+  - agent_name: Spencer, Herbert
+    birthdate: 1820
+    deathdate: 1903
+    gutenberg_agent_id: '1887'
+    url: http://www.gutenberg.org/2009/agents/1887
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Spencer
+  - agent_name: Cairnes, John Elliot
+    alias: Cairnes, J. E. (John Elliott)
+    birthdate: 1823
+    deathdate: 1875
+    gutenberg_agent_id: '5968'
+    url: http://www.gutenberg.org/2009/agents/5968
+    wikipedia: http://en.wikipedia.org/wiki/John_Elliott_Cairnes
+  - agent_name: Trimen, Henry
+    birthdate: 1843
+    deathdate: 1896
+    gutenberg_agent_id: '5965'
+    url: http://www.gutenberg.org/2009/agents/5965
+  - agent_name: Levy, J. H. (Joseph Hiam)
+    alias: Levy, Joseph Hiam
+    birthdate: 1838
+    deathdate: 1913
+    gutenberg_agent_id: '5966'
+    url: http://www.gutenberg.org/2009/agents/5966
+  - agent_name: Hunter, William Alexander
+    alias: Hunter, W. A. (William Alexander)
+    birthdate: 1844
+    deathdate: 1898
+    gutenberg_agent_id: '5967'
+    url: http://www.gutenberg.org/2009/agents/5967
+    wikipedia: http://en.wikipedia.org/wiki/William_Alexander_Hunter
+  - agent_name: Fawcett, Millicent Garrett, Dame
+    aliases:
+    - Garrett, Millicent
+    - Fawcett, Henry, Mrs.
+    birthdate: 1847
+    deathdate: 1929
+    gutenberg_agent_id: '5969'
+    url: http://www.gutenberg.org/2009/agents/5969
+    wikipedia: http://en.wikipedia.org/wiki/Millicent_Fawcett
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2005-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophers -- Great Britain -- Biography'
+- !lcsh 'Mill, John Stuart, 1806-1873'
+- !lcc 'B'
+tableOfContents: A sketch of his life / H.R. Fox Bourne -- His career in the India
+  House / W.T. Thornton -- His moral character / Herbert Spencer -- His botanical
+  studies / Henry Trimen -- His place as a critic / W. Minto -- His work in philosophy
+  / J.H. Levy -- His studies in morals and jurisprudence / W.A. Hunter -- His work
+  in political economy / J.E. Cairnes -- His influence at the universities / Henry
+  Fawcett -- His influence as a practical politician / Milicent Garrett Fawcett --
+  His relation to positivism / Frederic Harrison -- His position as a philosopher
+  / W.A. Hunter.
+title: "John Stuart Mill; His Life and Works\r\nTwelve Sketches by Herbert Spencer,\
+  \ Henry Fawcett, Frederic Harrison, and Other Distinguished Authors"
+url: http://www.gutenberg.org/ebooks/15268
