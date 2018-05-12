@@ -75,6 +75,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15268#John-Stuart-Mill--His-Life-and-Works--13-Twelve-Sketches-by-Herbert-Spencer-Henry-Fawcett-Fre_
 gutenberg_issued: '2005-03-06'
 gutenberg_type: Text
 identifiers:
